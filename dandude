@@ -867,9 +867,11 @@ https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
 
+#EXTINF:-1  ch-number="414" tvg-id="HboFamily1" tvg-chno="414" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/450_144.png", 414 HBO FAMILY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5053
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_ott.mpd
 
-
-#EXTINF:-1 ch-number="411" tvg-id="HBO" tvg-chno="411" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/411.png", 411 HBO#KODIPROP:inputstream.adaptive.license_type=clearkey#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2304https://aqfadtv.xyz/live/hbo/index.mpd
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="🍿 MOVIES 886 🍿", HBO HITS 
