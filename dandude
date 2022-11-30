@@ -1027,7 +1027,9 @@ https://moviesphere-plex.amagi.tv/playlist.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gjieeFmif/gjieeFmif/main/IMG-20221128-WA0063-removebg-preview.png" group-title="🍿 MOVIES 886 🍿", ACTION HOLLYWOOD MOVIES
-http://203.154.177.124:8899/live/ch7/playlist.m3u8
+#http://203.154.177.124:8899/live/ch7/playlist.m3u8
+####ERROR
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -1061,7 +1063,9 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8?bySCTV|Refere
 ****ERROR
 
 #EXTINF:-1 tvg-id="StarMovies" group-title="🍿 MOVIES 886 🍿" tvg-logo="https://raw.githubusercontent.com/gjieeFmif/gjieeFmif/main/IMG-20221128-WA0063-removebg-preview.png",STAR MOVIES SELECT
-http://humiptv.live:8080/live/500757885/3356646354/218.ts
+#http://humiptv.live:8080/live/500757885/3356646354/218.ts
+####ERROR
+
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295
@@ -1083,7 +1087,9 @@ https://aqfadtv.xyz/live/&flix/index.m3u8
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gjieeFmif/gjieeFmif/main/IMG-20221128-WA0063-removebg-preview.png" group-title="🍿 MOVIES 886 🍿", M&X
-http://103.55.144.46/hls/mnx-hd.m3u8
+#http://103.55.144.46/hls/mnx-hd.m3u8
+####ERROR
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gjieeFmif/gjieeFmif/main/IMG-20221128-WA0063-removebg-preview.png" group-title="🍿 MOVIES 886 🍿", Hi-YAH!
 https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
