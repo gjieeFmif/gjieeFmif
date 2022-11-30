@@ -188,18 +188,17 @@ https://linears-playback.astro.com.my/vsg/41hKNkIkwhdKjBbVV-CTOGpZo5p05jrofa0IYB
 http://51.79.82.208:16010/
 
 
-#EXTINF:-1 tvg-id="107" tvg-name="ASTRO WARNA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png" group-title="MALAYSIA🇲🇾",ASTRO WARNA
-https://stream.zeehanzgadget.com
+#EXTINF:-1 tvg-id="108" tvg-name="ASTRO CITRA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108_300.png" group-title="MALAYSIA",ASTRO CITRA
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142671.m3u8
 
-EXTINF:-1 tvg-id="107" tvg-name="ASTRO WARNA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png" group-title="MALAYSIA🇲🇾",ASTRO WARNA
-http://51.79.82.208:16010
+#EXTINF:-1 tvg-id="108" tvg-name="ASTRO CITRA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108_300.png" group-title="MALAYSIA",ASTRO CITRA
+https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142671
 
-#EXTINF:-1 tvg-id="107" tvg-name="ASTRO WARNA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png" group-title="MALAYSIA🇲🇾",ASTRO WARNA
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142670.m3u8
+#EXTINF:-1 tvg-id="108" tvg-name="ASTRO CITRA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108_300.png" group-title="MALAYSIA",ASTRO CITRA
+http://51.79.251.57:2082/live/J1528/Aa1234/27.m3u8
 
-EXTINF:-1 tvg-id="107" tvg-name="ASTRO WARNA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png" group-title="MALAYSIA🇲🇾",ASTRO WARNA
-https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142670
-
+#EXTINF:-1 tvg-id="108" tvg-name="ASTRO CITRA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108_300.png" group-title="MALAYSIA",ASTRO CITRA
+http://51.79.251.57:2082/live/J1528/Aa1234/28.m3u8
 
 
 
