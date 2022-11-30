@@ -188,20 +188,6 @@ https://linears-playback.astro.com.my/vsg/41hKNkIkwhdKjBbVV-CTOGpZo5p05jrofa0IYB
 http://51.79.82.208:16010/
 
 
-#EXTINF:-1 tvg-id="108" tvg-name="ASTRO CITRA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108_300.png" group-title="MALAYSIA",ASTRO CITRA
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142671.m3u8
-
-#EXTINF:-1 tvg-id="108" tvg-name="ASTRO CITRA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108_300.png" group-title="MALAYSIA",ASTRO CITRA
-https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142671
-
-#EXTINF:-1 tvg-id="108" tvg-name="ASTRO CITRA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108_300.png" group-title="MALAYSIA",ASTRO CITRA
-http://51.79.251.57:2082/live/J1528/Aa1234/27.m3u8
-
-#EXTINF:-1 tvg-id="108" tvg-name="ASTRO CITRA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108_300.png" group-title="MALAYSIA",ASTRO CITRA
-http://51.79.251.57:2082/live/J1528/Aa1234/28.m3u8
-
-
-
 
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="🇲🇾 MALAY 886 🇲🇾" tvg-logo="https://raw.githubusercontent.com/gjieeFmif/gjieeFmif/main/IMG-20221128-WA0063-removebg-preview.png",ASTRO WARNA ⁽ᴮᵃᶜᵏᵘᵖ⁾
 #https://nonton.site:8443/live/mustakim/mustakim/37335.m3u8
