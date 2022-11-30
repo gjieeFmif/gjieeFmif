@@ -612,13 +612,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default_ott.mpd
 ##EXTINF:-1 tvg-id="" tvg-chno="317" tvg-name="Astro AOD 355" radio="false" tvg-logo="https://raw.githubusercontent.com/gjieeFmif/gjieeFmif/main/IMG-20221128-WA0063-removebg-preview.png" group-title="⛩️ A.CHINESE 886 ⛩️",ASTRO AOD 355 (ASTRO)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/700
-https://linearjitp-playback.astro.com.my/dash-wv/linear/700/default_ott.mpd***S
+https://linearjitp-playback.astro.com.my/dash-wv/linear/700/default_ott.mpd***s
 ####ERROR
 
 ##EXTINF:-1 tvg-id="" tvg-chno="317" tvg-name="Astro AOD 355" radio="false" tvg-logo="https://raw.githubusercontent.com/gjieeFmif/gjieeFmif/main/IMG-20221128-WA0063-removebg-preview.png" group-title="⛩️ A.CHINESE 886 ⛩️",ASTRO AOD 355 (ASTRO)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/212
-https://linearjitp-playback.astro.com.my/dash-wv/linear/212/default_ott.mpd***S
+https://linearjitp-playback.astro.com.my/dash-wv/linear/212/default_ott.mpd***s
 ####ERROR
 
 
