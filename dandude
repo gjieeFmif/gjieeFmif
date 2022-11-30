@@ -683,20 +683,21 @@ https://aqfadtv.xyz/live/vinmeen/index.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gjieeFmif/gjieeFmif/main/IMG-20221128-WA0063-removebg-preview.png" group-title="🇮🇳 INDIA 886 🇮🇳" tvg-id="" tvg-name="", Astro Vellithirai
 # https://onedrive.aqfadtv.xyz/api/raw/?path=/expired.mp4&raw=true
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gjieeFmif/gjieeFmif/main/IMG-20221128-WA0063-removebg-preview.png" group-title="🇮🇳 INDIA 886 🇮🇳" tvg-id="" tvg-name="", Sun TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gjieeFmif/gjieeFmif/main/IMG-20221128-WA0063-removebg-preview.png" group-title="🇮🇳 INDIA 886 🇮🇳" tvg-id="" tvg-name="", Sun TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2310
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_ott.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gjieeFmif/gjieeFmif/main/IMG-20221128-WA0063-removebg-preview.png" group-title="🇮🇳 INDIA 886 🇮🇳" tvg-id="" tvg-name="", Sun Music HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5011
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5011/default_ott.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5011/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gjieeFmif/gjieeFmif/main/IMG-20221128-WA0063-removebg-preview.png" group-title="🇮🇳 INDIA 886 🇮🇳" tvg-id="" tvg-name="", Adithiya
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/915
-https://linearjitp-playback.astro.com.my/dash-wv/linear/915/default_ott.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/915/default_primary.mpd
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gjieeFmif/gjieeFmif/main/IMG-20221128-WA0063-removebg-preview.png" group-title="🇮🇳 INDIA 886 🇮🇳" tvg-id="" tvg-name="", Sun News
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -713,14 +714,15 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5088/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5089
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5089/default_primary.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gjieeFmif/gjieeFmif/main/IMG-20221128-WA0063-removebg-preview.png" group-title="🇮🇳 INDIA 886 🇮🇳" tvg-id="" tvg-name="", Star Vijay HD
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2707
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gjieeFmif/gjieeFmif/main/IMG-20221128-WA0063-removebg-preview.png" group-title="🇮🇳 INDIA 886 🇮🇳" tvg-id="" tvg-name="", Star Vijay HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_ott.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gjieeFmif/gjieeFmif/main/IMG-20221128-WA0063-removebg-preview.png" group-title="🇮🇳 INDIA 886 🇮🇳" tvg-id="" tvg-name="", Colors Tamil HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2101
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gjieeFmif/gjieeFmif/main/IMG-20221128-WA0063-removebg-preview.png" group-title="🇮🇳 INDIA 886 🇮🇳" tvg-id="" tvg-name="", Colors Tamil HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gjieeFmif/gjieeFmif/main/IMG-20221128-WA0063-removebg-preview.png" group-title="🇮🇳 INDIA 886 🇮🇳" tvg-id="" tvg-name="", Zee Tamil HD
