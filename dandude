@@ -822,7 +822,7 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_shareExt_b744100_sleng
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-ID="TransTV.id" group-title="🇮🇩 INDO 886 🇮🇩" tvg-logo="https://raw.githubusercontent.com/gjieeFmif/gjieeFmif/main/IMG-20221128-WA0063-removebg-preview.png",TRANS TV
+#EXTINF:-1 tvg-ID="TransTV.id" group-title="🇮🇩 INDO 886 🇮🇩" tvg-logo="https://raw.githubusercontent.com/gjieeFmif/gjieeFmif/main/IMG-20221128-WA0063-removebg-preview.png",TRANS TV G
 #https://liveanevia.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 #https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
 
@@ -830,24 +830,24 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_shareExt_b744100_sleng
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="JTV" tvg-logo="jtv.png" tvg-logo="https://1.bp.blogspot.com/-WGwAI9yh7v8/XwuUphRrO3I/AAAAAAAACWQ/2VrYHGDj3_Y80tX-15K4vednqt-Yc3oHwCLcBGAsYHQ/w1200-h630-p-k-no-nu/Logo%2BTrans%2B7.png" group-title="INDONESIA🇮🇩",TRANS7 HD A
+#EXTINF:-1 tvg-ID="TransTV.id" group-title="🇮🇩 INDO 886 🇮🇩" tvg-logo="https://raw.githubusercontent.com/gjieeFmif/gjieeFmif/main/IMG-20221128-WA0063-removebg-preview.png",TRANS TV F
 https://av-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
-#EXTINF:-1 tvg-id="JTV" tvg-logo="jtv.png" tvg-logo="https://1.bp.blogspot.com/-WGwAI9yh7v8/XwuUphRrO3I/AAAAAAAACWQ/2VrYHGDj3_Y80tX-15K4vednqt-Yc3oHwCLcBGAsYHQ/w1200-h630-p-k-no-nu/Logo%2BTrans%2B7.png" group-title="INDONESIA🇮🇩",TRANS7 HD B
+#EXTINF:-1 tvg-ID="TransTV.id" group-title="🇮🇩 INDO 886 🇮🇩" tvg-logo="https://raw.githubusercontent.com/gjieeFmif/gjieeFmif/main/IMG-20221128-WA0063-removebg-preview.png",TRANS TV E
 http://210.210.155.37/uq2663/h/h11/index.m3u8|User-Agent=Lavf/56.15.102
 
-#EXTINF:-1 tvg-id="JTV" tvg-logo="jtv.png" tvg-logo="https://1.bp.blogspot.com/-WGwAI9yh7v8/XwuUphRrO3I/AAAAAAAACWQ/2VrYHGDj3_Y80tX-15K4vednqt-Yc3oHwCLcBGAsYHQ/w1200-h630-p-k-no-nu/Logo%2BTrans%2B7.png" group-title="INDONESIA🇮🇩",TRANS7 HD C
+#EXTINF:-1 tvg-ID="TransTV.id" group-title="🇮🇩 INDO 886 🇮🇩" tvg-logo="https://raw.githubusercontent.com/gjieeFmif/gjieeFmif/main/IMG-20221128-WA0063-removebg-preview.png",TRANS TV D
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="JTV" tvg-logo="jtv.png" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2020/11/05/748878745.png" group-title="INDONESIA🇮🇩",TRANSTV HD D
+#EXTINF:-1 tvg-ID="TransTV.id" group-title="🇮🇩 INDO 886 🇮🇩" tvg-logo="https://raw.githubusercontent.com/gjieeFmif/gjieeFmif/main/IMG-20221128-WA0063-removebg-preview.png",TRANS TV C
 https://av-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
-#EXTINF:-1 tvg-id="JTV" tvg-logo="jtv.png" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2020/11/05/748878745.png" group-title="INDONESIA🇮🇩",TRANSTV HD E
+#EXTINF:-1 tvg-ID="TransTV.id" group-title="🇮🇩 INDO 886 🇮🇩" tvg-logo="https://raw.githubusercontent.com/gjieeFmif/gjieeFmif/main/IMG-20221128-WA0063-removebg-preview.png",TRANS TV B
 http://210.210.155.37/qwr9ew/s/s05/index.m3u8|User-Agent=Lavf/56.15.102
 
-#EXTINF:-1 tvg-id="JTV" tvg-logo="jtv.png" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2020/11/05/748878745.png" group-title="INDONESIA🇮🇩",TRANSTV HD F
+#EXTINF:-1 tvg-ID="TransTV.id" group-title="🇮🇩 INDO 886 🇮🇩" tvg-logo="https://raw.githubusercontent.com/gjieeFmif/gjieeFmif/main/IMG-20221128-WA0063-removebg-preview.png",TRANS TV A
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
 
