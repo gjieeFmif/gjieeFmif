@@ -173,18 +173,15 @@ https://linears-playback.astro.com.my/vsg/41hKNkIkwhdKjBbVV-CTOGpeqOdW8SdxRlTf6O
 #http://51.81.208.129:35461/80301070602/456776/721
 ####ERROR
 
-#EXTINF:-1 tvg-id="AstroCitra" group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="108" tvg-logo="https://raw.githubusercontent.com/gjieeFmif/gjieeFmif/main/IMG-20221128-WA0063-removebg-preview.png",ASTRO CITRA ⁽ᴮᵃᶜᵏᵘᵖ⁾.   
-#https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142671.m3u8
-####ERROR
 
 
-#EXTINF:-1 tvg-id="108" tvg-name="ASTRO CITRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Astro_Citra.png/220px-Astro_Citra.png" group-title="MALAYSIA🇲🇾",ASTRO CITRA
+#EXTINF:-1 tvg-id="AstroCitra" group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="108" tvg-logo="https://raw.githubusercontent.com/gjieeFmif/gjieeFmif/main/IMG-20221128-WA0063-removebg-preview.png",ASTRO CITRA A   
 https://stream.zeehanzgadget.com/citra
 
-#EXTINF:-1 tvg-id="108" tvg-name="ASTRO CITRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Astro_Citra.png/220px-Astro_Citra.png" group-title="MALAYSIA🇲🇾",ASTRO CITRA
+#EXTINF:-1 tvg-id="AstroCitra" group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="108" tvg-logo="https://raw.githubusercontent.com/gjieeFmif/gjieeFmif/main/IMG-20221128-WA0063-removebg-preview.png",ASTRO CITRA B  
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142671.m3u8
 
-#EXTINF:-1 tvg-id="108" tvg-name="ASTRO CITRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Astro_Citra.png/220px-Astro_Citra.png" group-title="MALAYSIA🇲🇾",ASTRO CITRA
+#EXTINF:-1 tvg-id="AstroCitra" group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="108" tvg-logo="https://raw.githubusercontent.com/gjieeFmif/gjieeFmif/main/IMG-20221128-WA0063-removebg-preview.png",ASTRO CITRA C  
 https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142671
 
 
