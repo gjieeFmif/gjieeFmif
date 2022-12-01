@@ -1799,6 +1799,15 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_primary.mpd
 EXTINF:-1 tvg-id="AstroSupersportUHD2" ch-number="806" tvg-logo="https://raw.githubusercontent.com/gjieeFmif/gjieeFmif/main/IMG-20221128-WA0063-removebg-preview.png" group-title="⚽ SPORTS 886 ⚽",ASSP UHD 2
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1602/default_primary.mpd
 
+
+#EXTINF:-1 tvg-id="wc2022-2" tvg-name="wc2022 2" tvg-logo="https://raw.githubusercontent.com/gjieeFmif/gjieeFmif/main/IMG-20221128-WA0063-removebg-preview.png" group-title="⚽ SPORTS 886 ⚽",ASTRO FWC 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webudi.openhd.lol/lb/premium295/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
+
+
+
+
 #EXTINF:-1 tvg-id="beINSports" group-title="⚽ SPORTS 886 ⚽" ch-number="817" tvg-logo="https://raw.githubusercontent.com/gjieeFmif/gjieeFmif/main/IMG-20221128-WA0063-removebg-preview.png",beIN Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/408
