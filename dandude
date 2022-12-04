@@ -157,9 +157,8 @@ https://ktiptv.cf:443/161/161/694460
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="108" tvg-logo="https://raw.githubusercontent.com/gjieeFmif/gjieeFmif/main/IMG-20221128-WA0063-removebg-preview.png",ASTRO CITRA  
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2700
-#https://aqfadtv.xyz/live/citra/index.mpd
-https://linears-playback.astro.com.my/vsg/41hKNkIkwhdKjBbVV-CTOGpeqOdW8SdxRlTf6OWQXluog=2_Jw/dash-wv/jitp-linearwm/2700/default_ott.mpd?10
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
+http://51.81.208.129:35461/80203091402/213445/6608
 
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="🇲🇾 MALAY 886 🇲🇾" ch-number="108" tvg-logo="https://raw.githubusercontent.com/gjieeFmif/gjieeFmif/main/IMG-20221128-WA0063-removebg-preview.png",ASTRO CITRA (B)  
